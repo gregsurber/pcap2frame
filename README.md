@@ -1,4 +1,4 @@
-# pcap2frame
+# pcap2frame - Python 2
 Converts a PCAP file to a PANDAS or SFRAME data frame
 
 ### Requirements
